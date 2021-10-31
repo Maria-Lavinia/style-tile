@@ -2,23 +2,23 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Playfair+Display:wght@500&display=swap");
-/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Cousine&display=swap');
+/*font-family: 'Cousine', monospace;*/
 
 * {
   box-sizing: border-box;
 }
 
 :root {
-  --bg-color: #bfbfbf;
-  --link-hover-color: #2f3640;
-  --link-color: #202426;
-  --color-4: #593e52;
-  --color-5: #f2f2f2;
+  --bg-color: #F2DFD8;
+  --link-hover-color: #D9C1B8;
+  --link-color: #593528;
+  --color-4: #BFA18F;
+  --color-5: #261206;
 
-  --primary-font: "Montserrat", sans-serif;
+  --primary-font: 'Cousine', monospace;
   --secondary-font: "Montserrat", sans-serif;
-  --main-text-color: #202426;
+  --main-text-color: black;
 
   --white-space: 1rem;
 }
@@ -125,7 +125,7 @@ ul li:last-child {
 
 .color-swatch-5 {
   background-color: var(--color-5);
-  color: black;
+  color: white;
 }
 
 .textures li {
@@ -186,7 +186,7 @@ button:focus-within {
 .h1-sample {
   font-size: 2.4rem;
   font-weight: bold;
-  color: #2f3640;
+  color: black;
 }
 
 .h2-sample {
