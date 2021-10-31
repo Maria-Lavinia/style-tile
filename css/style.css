@@ -25,12 +25,12 @@
 
 button:hover {
   background-color: transparent;
-  color: #593e52;
-  border-color: #593e52;
+  color: #BFA18F;
+  border-color: #BFA18F;
 }
 
 a:hover {
-  color: #593e52;
+  color: #BFA18F;
 }
 html {
   font-size: 100%;
